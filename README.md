@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Tester Engineer  
 - 👨‍💻 I’m constantly exploring new technologies and testing tools to improve my skills.  
-- 💬 Ask me about my experience with manual testing, API testing (Postman, Rest Assured), or test automation (Katalon).  
+- 💬 Ask me about my experience with manual testing, API testing (Postman, Rest Assured), or test automation (Selenium, Katalon).  
 - ⚡ Fun Fact: I enjoy solving bugs and debugging more than coding itself!
 
 ---
